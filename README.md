@@ -1,5 +1,5 @@
 # my data150 class
 
-##informal response
+## informal response
 
-1. [blumenstock response]
+1. [blumenstock response](
