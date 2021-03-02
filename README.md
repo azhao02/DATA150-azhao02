@@ -8,4 +8,4 @@
 
 ## Formal Response
 
-3. [Anotated bibliography](https://github.com/azhao02/DATA150-azhao02/blob/main/Anotatedbib.md)
+1. [Anotated bibliography](https://github.com/azhao02/DATA150-azhao02/blob/main/Anotatedbib.md)
