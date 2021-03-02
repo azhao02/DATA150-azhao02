@@ -4,7 +4,7 @@ Coll 150 Human development and Data Science
 
 27 February 2021
 
-                                                                       Anotated Bibliography
+                                                                   Anotated Bibliography
 
 Article 1
 Du, T., Kang, S., Zhang, J., & Davies, W. J. (2015). Deficit irrigation and SUSTAINABLE Water-resource strategies in agriculture FOR China’s food security. Journal of Experimental Botany, 66(8), 2253–2269. https://doi.org/10.1093/jxb/erv034
@@ -39,6 +39,8 @@ Data is a great way to effectively show the result of study. More than that, the
 
 
 Reflection
+
+China’s food security issues can impact not only China, but also the whole world because of its huge population and acreage. The most difficult point of this problem is not how can people achieve food security but how to maintain the food security. For the sources above, they focus on several significant factors of food supply, such as Arable land and water supply for irrigation. In order to ensure the sustainability of food supply, data science and index analysis are good ways to find out the critical problems, make a predicting to future trend, and define the direction and way of improvement.
 
 
 
