@@ -1,3 +1,9 @@
+Annie Zhao
+Coll 150 Human development and Data Science 
+27 February 2021
+
+                                                                       Anotated Bibliography
+
 Du, T., Kang, S., Zhang, J., & Davies, W. J. (2015). Deficit irrigation and SUSTAINABLE Water-resource strategies in agriculture FOR China’s food security. Journal of Experimental Botany, 66(8), 2253–2269. https://doi.org/10.1093/jxb/erv034
 
 
@@ -26,6 +32,7 @@ This passage focuses on Chinese food security problem. Since China is a huge nat
 Data is a great way to effectively show the result of study. More than that, the most important usage of data and index is to predict future trends. From the study of this passage, the data results indicate an increasing trend of risk assessment, and based on that, the situation of land resources and environmental conditions can be visually recognized. So it makes possible the construction of a regional food security early warning system. People can use the huge database and through research from representative land such as Dongting Lake in this case to monitor the future food security. Although the current situation is not bad in Dongting Lake, the index and data still warn people about the gradual increase of food security risk in future. It is a good sign for people and enables them to improve food security sustainability.
 
 
+Reflection
 
 
 
