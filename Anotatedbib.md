@@ -7,6 +7,7 @@ Coll 150 Human development and Data Science
                                                                    Anotated Bibliography
 
 Article 1
+
 Du, T., Kang, S., Zhang, J., & Davies, W. J. (2015). Deficit irrigation and SUSTAINABLE Water-resource strategies in agriculture FOR China’s food security. Journal of Experimental Botany, 66(8), 2253–2269. https://doi.org/10.1093/jxb/erv034
 
 
@@ -15,6 +16,7 @@ In order to efficiently the water application technology is needed. In this arti
 
 
 Article 2
+
 Jiang, T. (2008). WTO accession and food security in China. In CHEN C. & DUNCAN R. (Eds.), Agriculture and Food Security in China: What Effect WTO Accession and Regional Trade Arrangements? (pp. 183-202). ANU Press. Retrieved February 27, 2021, from http://www.jstor.org/stable/j.ctt24hd73.15
 
 This passage brings out a worth studying topic by starting with the exceptional accession commitment of China joining WTO (World Trade Organization). It agreed to lower the average statutory tariff on industrial products, cancel agricultural subsidies, and limit domestic support to farmers. From the commitment, it seems very likely to be adverse for Chinese agriculture and raise the concern on the problem of food security and farmer’s income. 
@@ -24,6 +26,7 @@ Considering China's specific condition, a huge amount of people are farmers. And
 
 
 Article 3
+
 Long, H., Ge, D., Zhang, Y., Tu, S., Qu, Y., & Ma, L. (2018). Changing man-land interrelations in China's farming area under urbanization and its implications for food security. Journal of Environmental Management, 209, 440–451. https://doi.org/10.1016/j.jenvman.2017.12.047
 
 This passage is a typical geospatial data research case. It starts by deeply analyzing  the Huang-Huai Hai-Plain, which is a typical Chinese agricultural area, to bring out the urbanization problem and how it will affect food security. In this passage, it uses data to state out the relationship between per capita construction land transition (PCCT) and per capita farmland transition (PCFT) in the HHH and how to develop an appropriate agricultural scale management, and establish a better social security system to deal with the problem of floating rural population in the city while reduce inefficient occupation of farmland resources.
@@ -31,6 +34,7 @@ According to the data resources, Chinese urbanization rate increased from 36.22%
 
 
 Article 4
+
 Qi, X., Liu, L., Liu, Y., & Yao, L. (2012). Risk assessment for sustainable food security in China according to integrated food security—taking Dongting Lake area for example. Environmental Monitoring and Assessment, 185(6), 4855–4867. https://doi.org/10.1007/s10661-012-2908-2
 
 For this passage, the author clearly states the three significant aspects of food security at the beginning. The integrated food security must include three factors: food quantity security, food quality security, and sustainable food security. Among those factors, sustainable food security is kind of different from the other two. It cannot be simply measured, but needs a future analysis which is influenced by many potential elements. Data and index can be an effective tool for sustainable food security problems. 
