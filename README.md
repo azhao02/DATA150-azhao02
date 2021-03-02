@@ -6,4 +6,4 @@
 
 # Formal Response
 
-3. [Anotated bibliography](https://azhao02.github.io/DATA150-azhao02/Anotatedbib.html)
+3. [Anotated bibliography](https://github.com/azhao02/DATA150-azhao02/blob/main/Anotatedbib.md)
