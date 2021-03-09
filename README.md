@@ -6,6 +6,8 @@
 
 2. [Lightining round questions](https://azhao02.github.io/DATA150-azhao02/Lightningquestions.html)
 
+3. [Big Data Response](https://azhao02.github.io/DATA150-azhao02/BigDataResponse.html)
+
 ## Formal Response
 
 1. [Anotated bibliography](https://azhao02.github.io/DATA150-azhao02/Anotatedbib.html)
