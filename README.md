@@ -8,7 +8,7 @@
 
 3. [Big Data Response](https://azhao02.github.io/DATA150-azhao02/BigDataResponse.html)
 
-4. [Development Response](https://azhao02.github.io/DATA150-azhao02/Developmentresponse.html)
+4. [Development Response](https://azhao02.github.io/DATA150-azhao02/Development.html)
 
 ## Formal Response
 
