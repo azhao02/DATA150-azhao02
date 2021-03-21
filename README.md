@@ -14,4 +14,4 @@
 
 1. [Anotated bibliography](https://azhao02.github.io/DATA150-azhao02/Anotatedbib.html)
 
-2. [Literature Review](https://azhao02.github.io/DATA150-azhao02/LiteretureReview.html)
+2. [Literature Review](https://azhao02.github.io/DATA150-azhao02/LiteratureReview.html)
