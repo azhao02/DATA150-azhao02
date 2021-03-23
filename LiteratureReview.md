@@ -19,3 +19,9 @@ Urbanization of China as a human development process tends towards greater compl
 For final reflection, based on all above, it actually brings out another significant question of human development that is worth further seeking for an answer. How should people balance the development and the potential negative effects of it. In this case, in order to ensure the sustainability of food supply in the long term, Chinese people should improve the relative policy and measures of the urbanization in order to encounter the spatial shifting and the ineffective usage of arable land caused by geospatial disequilibrium of grain production.
 
 
+CHRISTIANSEN, F. (2009). Food security, urbanization and social stability in China. Journal of Agrarian Change, 9(4), 548-575. doi:10.1111/j.1471-0366.2009.00231.x
+Clinton, N., Stuhlmacher, M., Miles, A., Uludere Aragon, N., Wagner, M., Georgescu, M., . . . Gong, P. (2018). A global Geospatial ecosystem Services estimate of urban agriculture. Earth's Future, 6(1), 40-60. doi:10.1002/2017ef000536
+Long, H., Ge, D., Zhang, Y., Tu, S., Qu, Y., & Ma, L. (2018). Changing man-land Interrelations in CHINA'S farming area under urbanization and its implications for food security. Journal of Environmental Management, 209, 440-451. doi:10.1016/j.jenvman.2017.12.047
+Wang, Y. (2019). The challenges and strategies of food security under rapid urbanization in China. Sustainability, 11(2), 542. doi:10.3390/su11020542
+
+
