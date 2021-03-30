@@ -10,6 +10,9 @@
 
 4. [Development Response](https://azhao02.github.io/DATA150-azhao02/Development.html)
 
+5. [Assignment 3](https://azhao02.github.io/DATA150-azhao02/AssignmentThree.html)
+
+
 ## Formal Response
 
 1. [Anotated bibliography](https://azhao02.github.io/DATA150-azhao02/Anotatedbib.html)
