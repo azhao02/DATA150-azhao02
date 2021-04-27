@@ -6,23 +6,23 @@ Urbanization is an inevitable process in human development. It represents a comp
 
 Considering the geospatial data features, the focusing area of this passage is in the north east part of China and around Beijing, which is the capital as well as the economic and political center of China. In the research article Changing man-land interrelations in China's farming area under urbanization and its implications for food security, it mainly works on The Huang-Huai-Hai Plain, also known as HHH. It is a typical Chinese farming area, and was predicted as one of the fastest growing areas under urbanization all over the world. HHH is close to the capital Beijing, and works as a significant food production area of China. So the geospatial data analysis can be a typical case and worth of study. For its research method, after located the stud area, the author obtained the land use data which classification in 2000, 2005, 2010 and 2015. The dataset contains 6580 town-level resident population data and population density sampling data in the HHH. This research processes the data through PCCT and PCFT. The land-use data of it is obtained from Landsat TM and ETM true color composite image after geometric rectification and supervised classification. When running the logrism process, the researchers bring out two terminologies which are PCCA that stands for  per capita construction land area in m^2 /person and PCFA that stands for per capita farmland area in ha/person. The equations of them respectively are Conarea and Farmarea divided Podensity, where Conarea and Farmarea represents the construction and farm land area in each 1 kilometer times 1 kilometer grid. And the Podensity is the population size in person for  each grid. After processing the mathematical equation that PCCT=PCCAt2-PCCAt1 and PCFT=PCFAt2-PCFAt1, which t1 and t2 represents for the starting and ending period, many informations are shown through a deeper analysis of the grid scale correlation of PCCA and PCFA. The correlation coefficient could be estimated by:
 
-
+![Alt text](http://full/path/to/img.jpg "A3.3")
 
 It should be acknowledged as a kind of spatial econometric regression analysis which analyzes the influential factors of the interactional relationships between PCCT and PCFT at grid-scale through the spatial econometric regression models. Although this research uses spatial economic regression analysis, it can be considered as both spatial and temporal dimension. This research does not include a survey but does use secondary data. The origin of the data is reliable and valid since it was taken from the China Natural Resources Data Center, the National Basic Geographic Information Center, and so on.
 
-
+![Alt text](http://full/path/to/img.jpg "A3.4")
 
 
 Except for that, the migration pattern of Chinese internal population is shifting worthy of analysis. In Spatial shifts in grain production increases in China and implications for food security, it focuses on two perspectives. First of all, the  social status and labour market, mostly rural migrants in destinations, will greatly impact the migration pattern. Especially when considering a general nature of capitalist accumulation in China. After that, the underlying cause is another factor that is worth a great concern. During this research, it employs exploratory spatial data analysis, which also can be known as ESDA. This method is an extension of exploratory data analysis as it focuses on the particular characteristics of geospatial data. It generally based on a formula:
 
-
+![Alt text](http://full/path/to/img.jpg "A3.2")
 
 This method basically works on the changes of geospatial patterns, such as population, economic, and energy barycenter, and also frequently used for spatial analysis. The  data is taken from the China County Statistical Yearbook of 2004, 2006, 2011 and 2015 Data Center for Resources and Environmental Sciences, Chinese Academy of Sciences (RESDC), which ensures the validity and reality of the whole research. 
 
 
 For this method, it includes global spatial autocorrelation, known as Global Moran's I, and local spatial autocorrelation, known as Local Moran’s I. It uses Software GeoDA to calculate the Index of grain output growth in all phases of the Global Moran I, and the calculating equation of that is working in reference to the correlation between indexes.
 
-
+![Alt text](http://full/path/to/img.jpg "A3.1")
 
 In the final step of the research, it uses the Local Indicators of Spatial Association, known as LISA to examine the geospatial associations. In general, this research is more likely to refer to spatial research with secondary data usage. The official origins of its data resources also ensure its validity and reliability.
 
@@ -38,7 +38,7 @@ Based  on the study, it is obvious that the needs of food are great in urban are
 
 
 
-Work Cited
+##Work Cited##
 
 
 Wang, J., Zhang, Z., & Liu, Y. (2018). Spatial shifts in grain production increases in China and implications for food security. Land Use Policy, 74, 204-213. doi:10.1016/j.landusepol.2017.11.037
