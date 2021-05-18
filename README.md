@@ -21,5 +21,5 @@
 
 3. [Method](https://azhao02.github.io/DATA150-azhao02/Method.html)
 
-4. [Method](https://azhao02.github.io/DATA150-azhao02/Final.html)
+4. [Final](https://azhao02.github.io/DATA150-azhao02/Final.html)
 
